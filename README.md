@@ -13,18 +13,18 @@ Hence, I am **not** the inventor of the coding solution that lives in this repos
 I have been working with the book, I am confident I can rewrite the game without the help of the book, which is the whole point of this project.
 
 ## Specifications
-Alien Invasion is an old and quite famous arcade game. It is best known as *Space Invaders*. More can be found [here][https://en.wikipedia.org/wiki/Space_Invaders]
+Alien Invasion is an old and quite famous arcade game. It is best known as *Space Invaders*. More can be found [here](https://en.wikipedia.org/wiki/Space_Invaders)
 The specifications are simply to build this game usint the *Pygame* gaming library.
 
 ## Project Milestones
 
-[x] Create a gaming environment (screen) with Pygame
-[x] Import image of spaceship and make it move on keyboard key presses
-[x] Update constantly the screen with the new position of its components (ship, aliens etc)
-[ ] Import images of aliens and make them move without autonomously
-[ ] Create bullet-firing functionality and collision logic
-[ ] Keep track of score and end of game if player loses
-[ ] Knit up any edge cases (eg. edge of screen)
-[ ] Test thoroughly and play a lot!
+- [x] Create a gaming environment (screen) with Pygame
+- [x] Import image of spaceship and make it move on keyboard key presses
+- [x] Update constantly the screen with the new position of its components (ship, aliens etc)
+- [ ] Import images of aliens and make them move without autonomously
+- [ ] Create bullet-firing functionality and collision logic
+- [ ] Keep track of score and end of game if player loses
+- [ ] Knit up any edge cases (eg. edge of screen)
+- [ ] Test thoroughly and play a lot!
 
 
