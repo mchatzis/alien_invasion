@@ -18,7 +18,10 @@ def run_game():
     #main game loop
     while True:
         
-        functs.handle_events()
+        functs.handle_events(ship)
+        
+        #apply game logic
+        ship.update()
         
         #update screen
         functs.update_screen(settings,screen,ship)
