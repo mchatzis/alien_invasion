@@ -1,7 +1,6 @@
 # Alien Invasion
 
-DISCLAIMER: This project is under construction, not a fully working solution. It is updated daily. 
-Estimated completion time: 1.5 months
+DISCLAIMER: This project is under construction, not a fully working solution. It is the second project I am working on my free time. 
 
 ## Motivation
 This is one of my self-learning projects. I am building it to practice my theoretical knowledge of Object Oriented Programming in Python.
